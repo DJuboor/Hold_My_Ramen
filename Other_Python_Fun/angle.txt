@@ -1,0 +1,24 @@
+Eventually all noodles 
+will get eaten. But how long is eventually? 
+Even though all things governed 
+by linear rules will eventually reach the same conclusion, 
+the timing is vague. So I've set out on a journey to peer into the very nature 
+of mathematical rules and logic to find out exactly how long it takes to reach this inevitable end. How long exactly will it take for rules to play out given any starting point and set of rules? Is there an answer that isn't restricted to domain-specific knowledge? If so, is it easy to compute?
+The Journey
+This epic begins with me. A young man with nothing 
+to lose and everything to gain - thrusting himself against the odds. 
+With his right hand, he furiously mashes numbers into a computer and draws 
+symbols onto a whiteboard. The Hand Of Gauss. With his left hand, 
+he ignores the boiling broth on his skin and sips from his ramen 
+cup with unbreakable concentration. The Hand Of Gauze. 
+I had the idea to attack this problem when I was making a 
+game engine. 
+The game engine involved a lot of economics and population 
+dynamics that I was modeling with differential equations. 
+Analysis was rough, things would break in unexpected ways, 
+and, most of all, my computer was just too slow. I wondered if 
+there was a way to figure out a few main points about any modification 
+I'd make without having to run it through the simulation or to try and 
+solve it by hand. Development time is always expensive no matter what the 
+setting and I couldn't afford to waste it waiting for my 
+computer to run hours of simulations.
