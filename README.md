@@ -2,5 +2,8 @@
 This repository contains any open-source code associated with the Hold My Ramen team
 
 
-# Currently Under Maintenance
-Hold My Ramen is in the process of migrating our open source code to this repo. Please be patient with us as we organize and share our projects.
+# Currently Up To Date (2/12/2017)
+Hold My Ramen has finally brought this repo up to date! Explore our recipies for disaster safely and responsibly. Within this repo, you can find most of the code for our projects ordered by project name. 
+
+# Intellectual Property
+Unfortunately, some of the code in our projects have since been used in industry and are now under more restrictive lisencing terms. We're sorry for the inconvenience. 
